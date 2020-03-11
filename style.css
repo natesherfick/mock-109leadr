@@ -1,0 +1,16 @@
+*{
+  outline: solid black;
+  height: 100px;
+}
+
+.picture-phone{
+  height: 200px;
+}
+
+.blueish{
+  background-color: #5da1ce;
+}
+
+.font-pacifico{
+  font-family: 'Pacifico', cursive;
+}
