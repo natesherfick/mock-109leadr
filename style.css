@@ -1,6 +1,7 @@
-*{
-  outline: solid black;
-  height: "";
+
+
+body{
+  background-color: rgb(238, 238, 238);
 }
 
 .picture-phone{
@@ -13,4 +14,8 @@
 
 .font-pacifico{
   font-family: 'Pacifico', cursive;
+}
+
+.footerish{
+  background-color: rgb(44, 44, 44);
 }
